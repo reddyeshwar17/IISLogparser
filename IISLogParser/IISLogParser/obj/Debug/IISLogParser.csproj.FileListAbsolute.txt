@@ -1,0 +1,6 @@
+D:\IISLogParser\IISLogParser\IISLogParser\bin\Debug\IISLogParser.exe.config
+D:\IISLogParser\IISLogParser\IISLogParser\bin\Debug\IISLogParser.exe
+D:\IISLogParser\IISLogParser\IISLogParser\bin\Debug\IISLogParser.pdb
+D:\IISLogParser\IISLogParser\IISLogParser\obj\Debug\IISLogParser.exe
+D:\IISLogParser\IISLogParser\IISLogParser\obj\Debug\IISLogParser.pdb
+D:\IISLogParser\IISLogParser\IISLogParser\obj\Debug\IISLogParser.csprojResolveAssemblyReference.cache

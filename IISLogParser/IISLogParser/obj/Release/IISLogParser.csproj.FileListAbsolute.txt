@@ -1,0 +1,5 @@
+D:\IISLogParser\IISLogParser\IISLogParser\bin\Release\IISLogParser.exe.config
+D:\IISLogParser\IISLogParser\IISLogParser\bin\Release\IISLogParser.exe
+D:\IISLogParser\IISLogParser\IISLogParser\bin\Release\IISLogParser.pdb
+D:\IISLogParser\IISLogParser\IISLogParser\obj\Release\IISLogParser.exe
+D:\IISLogParser\IISLogParser\IISLogParser\obj\Release\IISLogParser.pdb

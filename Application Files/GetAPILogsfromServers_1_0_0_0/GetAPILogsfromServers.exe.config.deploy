@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+  </startup>
+  <connectionStrings>
+    <add name="SQLInfoDBConnectionString" providerName="System.Data.SqlClient" connectionString="Data Source=co1ebsscmpsql03;Initial Catalog=SQLInfo; Integrated Security=true" />
+  </connectionStrings>
+  <appSettings>
+    <add key="Logfolder" value="\\E$\\SCM\\SCM\\Portal\\Services\\logs" />
+    <add key="MchineNames" value="CO1EBSSCMPWEB01,CO1EBSSCMPWEB02,CO1EBSSCMPWEB05,CO1EBSSCMPWEB06" />
+    <add key="ArchiveFolder" value="\\E$\\SCM\\SCM\\Portal\\Services\\" />
+    <add key="KeyVault.Vault.Address" value="https://mciopredockcorpkeyvault.vault.azure.net/" />
+    <add key="KeyVault.Authentication.ClientId" value="2852320c-9463-42e5-ba16-56e06d0fa8c4" />
+    <add key="KeyVault.Authentication.Certificate.Thumbprint" value="AC6C717A5423B333611798F23DB1075415792B14" />
+  </appSettings>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="System.Net.Http.Extensions" publicKeyToken="b03f5f7f11d50a3a" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-2.2.22.0" newVersion="2.2.22.0" />
+      </dependentAssembly>
+      <dependentAssembly>
+        <assemblyIdentity name="System.Net.Http.Primitives" publicKeyToken="b03f5f7f11d50a3a" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-4.2.22.0" newVersion="4.2.22.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>
