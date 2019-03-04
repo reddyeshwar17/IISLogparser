@@ -110,7 +110,7 @@ namespace IISLogParser
             var startInfo = new ProcessStartInfo
             {
                 FileName = logParserPath,
-                Arguments = query + @" -i:w3c -o:SQL -server:co1ebsscmpsql03 -database:SQLInfo -driver:""SQL Server"" -createTable:ON",
+                Arguments = query + @" -i:w3c -o:SQL -server:servername -database:DBName -driver:""SQL Server"" -createTable:ON",
                 CreateNoWindow = false,
                 UseShellExecute = false,
                 RedirectStandardOutput = true
